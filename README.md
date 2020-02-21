@@ -1,3 +1,4 @@
+Learn how to make grids and boxes in CSS
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
